@@ -17,7 +17,7 @@ package views
 import (
 	"sync"
 
-	"github.com/derailed/tcell/v2"
+	"github.com/globlit/tcell/v2"
 )
 
 // TextBar is a Widget that provides a single line of text, but with

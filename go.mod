@@ -1,4 +1,4 @@
-module github.com/derailed/tcell/v2
+module github.com/globlit/tcell/v2
 
 go 1.19
 

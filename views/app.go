@@ -17,7 +17,7 @@ package views
 import (
 	"sync"
 
-	"github.com/derailed/tcell/v2"
+	"github.com/globlit/tcell/v2"
 )
 
 // Application represents an event-driven application running on a screen.

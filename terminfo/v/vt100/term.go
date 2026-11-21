@@ -2,7 +2,7 @@
 
 package vt100
 
-import "github.com/derailed/tcell/v2/terminfo"
+import "github.com/globlit/tcell/v2/terminfo"
 
 func init() {
 
